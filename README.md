@@ -1,4 +1,4 @@
-# medicalStore
+# com.moujitx.medicalStore
 浙江水利水电学院
 
 2022-2023-2学年《物联网移动应用开发》课程
