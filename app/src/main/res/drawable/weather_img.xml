@@ -1,0 +1,33 @@
+<level-list xmlns:android = "http://schemas.android.com/apk/res/android" >
+    <item android:maxLevel = "0" android:drawable = "@drawable/weather1" />
+    <item android:maxLevel = "1" android:drawable = "@drawable/weather2" />
+    <item android:maxLevel = "2" android:drawable = "@drawable/weather3" />
+    <item android:maxLevel = "3" android:drawable = "@drawable/weather4" />
+    <item android:maxLevel = "4" android:drawable = "@drawable/weather5" />
+    <item android:maxLevel = "5" android:drawable = "@drawable/weather6" />
+    <item android:maxLevel = "6" android:drawable = "@drawable/weather7" />
+    <item android:maxLevel = "7" android:drawable = "@drawable/weather8" />
+    <item android:maxLevel = "8" android:drawable = "@drawable/weather9" />
+    <item android:maxLevel = "9" android:drawable = "@drawable/weather10" />
+    <item android:maxLevel = "10" android:drawable = "@drawable/weather11" />
+    <item android:maxLevel = "11" android:drawable = "@drawable/weather12" />
+    <item android:maxLevel = "12" android:drawable = "@drawable/weather12" />
+    <item android:maxLevel = "13" android:drawable = "@drawable/weather13" />
+    <item android:maxLevel = "14" android:drawable = "@drawable/weather14" />
+    <item android:maxLevel = "15" android:drawable = "@drawable/weather15" />
+    <item android:maxLevel = "16" android:drawable = "@drawable/weather16" />
+    <item android:maxLevel = "17" android:drawable = "@drawable/weather17" />
+    <item android:maxLevel = "18" android:drawable = "@drawable/weather18" />
+    <item android:maxLevel = "19" android:drawable = "@drawable/weather19" />
+    <item android:maxLevel = "20" android:drawable = "@drawable/weather20" />
+    <item android:maxLevel = "21" android:drawable = "@drawable/weather21" />
+    <item android:maxLevel = "22" android:drawable = "@drawable/weather22" />
+    <item android:maxLevel = "23" android:drawable = "@drawable/weather23" />
+    <item android:maxLevel = "24" android:drawable = "@drawable/weather24" />
+    <item android:maxLevel = "25" android:drawable = "@drawable/weather25" />
+    <item android:maxLevel = "26" android:drawable = "@drawable/weather26" />
+    <item android:maxLevel = "27" android:drawable = "@drawable/weather27" />
+    <item android:maxLevel = "28" android:drawable = "@drawable/weather28" />
+    <item android:maxLevel = "29" android:drawable = "@drawable/weather29" />
+    <item android:maxLevel = "30" android:drawable = "@drawable/weather30" />
+</level-list >

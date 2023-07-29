@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="citis">
+        <item>省</item>
+        <item id="beijing">北京</item>
+        <item id="hangzhou">杭州</item>
+        <item id="shanghai">上海</item>
+        <item id="shanghai">上海上海上海上海上海上海上海</item>
+    </string-array>
+</resources>

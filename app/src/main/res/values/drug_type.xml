@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drugs">
+        <item>选择药品分类</item>
+        <item>处方药</item>
+        <item>非处方药</item>
+        <item>中药</item>
+        <item>其他</item>
+    </string-array>
+</resources>
